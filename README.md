@@ -58,7 +58,7 @@ I hold a PhD in AI/ML applications in civil engineering, where my research focus
 ---
 
 ## 📬 **Contact Me**  
-- **Email:** [rod.will@crick.ac.uk](mailto:rod.will@crick.ac.uk)  
+- **Email:** [rod.will@crick.ac.uk](mailto:rod.will@rodwill.com)  
 - **LinkedIn:** [rod-will](https://www.linkedin.com/in/rod-will)  
 - **GitHub:** [rodW](https://github.com/rodW)  
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=ZpqfoIQAAAAJ)  
