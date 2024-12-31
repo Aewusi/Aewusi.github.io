@@ -1,4 +1,3 @@
-# AI-ML
 # Rod Will - AI/ML Researcher Portfolio  
 
 Welcome to my professional portfolio! I specialize in Artificial Intelligence (AI) and Machine Learning (ML) applications in civil engineering, healthcare, and agriculture. This site showcases my completed projects, ongoing research, future goals, and academic achievements.  
