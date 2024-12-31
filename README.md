@@ -59,9 +59,9 @@ I hold a PhD in AI/ML applications in civil engineering, where my research focus
 ---
 
 ## 📬 **Contact Me**  
-- **Email:** [matous.elphick@crick.ac.uk](mailto:matous.elphick@crick.ac.uk)  
-- **LinkedIn:** [matous-elphick](https://www.linkedin.com/in/matous-elphick)  
-- **GitHub:** [MatousE](https://github.com/MatousE)  
+- **Email:** [rod.will@crick.ac.uk](mailto:rod.will@crick.ac.uk)  
+- **LinkedIn:** [rod-will](https://www.linkedin.com/in/rod-will)  
+- **GitHub:** [rodW](https://github.com/rodW)  
 - **Google Scholar:** [Profile](https://scholar.google.com/citations?user=ZpqfoIQAAAAJ)  
 
 ---
